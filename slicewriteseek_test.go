@@ -2,9 +2,10 @@ package slicewriteseek
 
 import (
 	"errors"
-	"github.com/stretchr/testify/assert"
 	"io"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestWrite(t *testing.T) {

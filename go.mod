@@ -1,4 +1,4 @@
-module github.com/corticph/slicewriteseek
+module github.com/glaslos/slicewriteseek
 
 go 1.16
 
