@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/corticph/slicewriteseek.svg?branch=master)](https://travis-ci.org/corticph/slicewriteseek)
-[![GoDoc](https://godoc.org/github.com/corticph/slicewriteseek?status.svg)](https://godoc.org/github.com/corticph/slicewriteseek)
+![example workflow](https://github.com/glaslos/slicewriteseek/actions/workflows/go.yml/badge.svg)
+[![GoDoc](https://godoc.org/github.com/glaslos/slicewriteseek?status.svg)](https://godoc.org/github.com/glaslos/slicewriteseek)
 # SliceWriteSeek
 SliceWriteSeeker implements WriteSeeker on a slice. There was a brief [discussion](https://github.com/golang/go/issues/21592) on adding such a feature to the stdlib.
 
